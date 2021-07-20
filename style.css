@@ -1,0 +1,20 @@
+#fundo{
+  background-image: url("Imagens/backgorund.png");
+  background-repeat: no-repeat; 
+  background-color: black;
+  background-size:  400px 200px;
+}
+
+#lista1{
+	list-style-image: url('Imagens/Insta.png') ;
+	list-style-position: inside;
+    }
+#lista2{
+  list-style-image: url('Imagens/Twitter.png');
+  list-style-position: inside;
+
+  }
+#lista3{
+  list-style-image: url('Imagens/linkedin.png');
+  list-style-position: inside;
+  }
